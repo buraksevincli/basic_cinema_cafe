@@ -1,0 +1,11 @@
+C:\Users\brksv\OneDrive\Masaüstü\C# Diaries\project_cinema\project_cinema\bin\Debug\project_cinema.exe.config
+C:\Users\brksv\OneDrive\Masaüstü\C# Diaries\project_cinema\project_cinema\bin\Debug\project_cinema.exe
+C:\Users\brksv\OneDrive\Masaüstü\C# Diaries\project_cinema\project_cinema\bin\Debug\project_cinema.pdb
+C:\Users\brksv\OneDrive\Masaüstü\C# Diaries\project_cinema\project_cinema\obj\Debug\project_cinema.csproj.AssemblyReference.cache
+C:\Users\brksv\OneDrive\Masaüstü\C# Diaries\project_cinema\project_cinema\obj\Debug\project_cinema.csproj.SuggestedBindingRedirects.cache
+C:\Users\brksv\OneDrive\Masaüstü\C# Diaries\project_cinema\project_cinema\obj\Debug\project_cinema.Form1.resources
+C:\Users\brksv\OneDrive\Masaüstü\C# Diaries\project_cinema\project_cinema\obj\Debug\project_cinema.Properties.Resources.resources
+C:\Users\brksv\OneDrive\Masaüstü\C# Diaries\project_cinema\project_cinema\obj\Debug\project_cinema.csproj.GenerateResource.cache
+C:\Users\brksv\OneDrive\Masaüstü\C# Diaries\project_cinema\project_cinema\obj\Debug\project_cinema.csproj.CoreCompileInputs.cache
+C:\Users\brksv\OneDrive\Masaüstü\C# Diaries\project_cinema\project_cinema\obj\Debug\project_cinema.exe
+C:\Users\brksv\OneDrive\Masaüstü\C# Diaries\project_cinema\project_cinema\obj\Debug\project_cinema.pdb
